@@ -1,2 +1,2 @@
 # Inference in PGM by GNN
-A Tensorflow implementation of the paper https://arxiv.org/pdf/1803.07710.pdf
+A Tensorflow implemen tation of the paper [**Inference in Probabilistic Graphical Models by Graph Neural Networks**](https://arxiv.org/pdf/1803.07710.pdf)
